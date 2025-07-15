@@ -1,0 +1,40 @@
+stock_marca=()
+
+"1":"HP - fgdzFDH -8GB - 1T";
+"2":dell - UWU13HD - 8GB - 1T";
+"3": "acer - GF75HD - 8GB - 1T";
+  
+busqueda_por_precio=()
+"1":$220.220;
+"2":$180.990;
+"3":$300.000;
+
+listado_de_productos=()
+"1":dell,15.6,8GB,DD,1T,AMD rayzen 5,Nvidia GTX1050
+"2":acer 15.6,12GB,SSD,1T,intel core i5,Nvidia GTX1'50
+"3":hp,14.4,14GB,SSD,intel core i7,nvidia RTX2080Ti
+
+#menu_de_opciones
+while True:
+    print("/n---Menu---")
+    print("1.stock_marca")
+    print("2.Busqueda_por_precio")
+    print("3.listado_de_producto")
+    print("4.salir")
+    
+    opcion=inpat ("elige una opcion")
+
+    if opcion =="1":
+        for clave, stock_marca. items():
+    elif opcion =="2":
+        codigo=input("ingresa el numero del producto")
+        elif codigo en listado_de_productos
+print(f"precio de{stock_marca
+                  else busqueda_por_precio
+                  else listado_de_productos
+                  print("precio no encontrado
+                        elif opcion =="32
+                        print codigo
+                        break
+                        else:
+                        print ("opcion no valida")
